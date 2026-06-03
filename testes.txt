@@ -1,0 +1,54 @@
+negacao = [ 
+    "The movie was good.", 
+    "The movie was not good.", 
+    "I don't hate this.", 
+    "This is not bad at all.", 
+    "He is not a bad person.", 
+    "I don't think this product is good.", 
+] 
+
+sarcasmo = [ 
+    "Oh great, another Monday.", 
+    "Yeah right, that was totally helpful.", 
+    "Wow, what a wonderful disaster.", 
+    "Sure, because that always works.", 
+    "Fantastic, the system crashed again.", 
+    "Just what I needed, another software bug.", 
+] 
+
+intensidade = [ 
+    "This is good.", 
+    "This is GOOD.", 
+    "This is good!", 
+    "This is GOOD!!!", 
+    "This is very good.", 
+    "This is extremely good.", 
+    "This is incredibly good!!!", 
+] 
+
+misto = [ 
+    "The laptop is fast, but the battery life is disappointing.", 
+    "The food was great but the service was terrible.", 
+    "I loved the story but hated the ending.", 
+    "Good price, bad quality.",
+    "Amazing visuals, awful plot.", 
+    "Good visuals, awful plot.", 
+    "The hotel was beautiful but way too expensive.", 
+] 
+
+contexto = [ 
+    "but then it breaks",       
+    "I had to return the product.", 
+    "The battery lasts 30 minutes.", 
+    "My expectations were not met.", 
+    "I waited 3 hours and nothing happened.", 
+] 
+
+girias = [ 
+    "This movie was lit!",       
+    "That new phone is sick.", 
+    "The concert was dope.", 
+    "This game is trash.", 
+    "The customer service was sketchy.", 
+    "The update was mid.", 
+] 
